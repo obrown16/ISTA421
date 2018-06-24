@@ -1,0 +1,6 @@
+C:\Users\obrow\source\repos\ASP.NET\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.dacpac
+C:\Users\obrow\source\repos\ASP.NET\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.dll
+C:\Users\obrow\source\repos\ASP.NET\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.pdb
+C:\Users\obrow\source\repos\ASP.NET\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.sqlprojAssemblyReference.cache
+C:\Users\obrow\source\repos\ASP.NET\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.dll
+C:\Users\obrow\source\repos\ASP.NET\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.pdb

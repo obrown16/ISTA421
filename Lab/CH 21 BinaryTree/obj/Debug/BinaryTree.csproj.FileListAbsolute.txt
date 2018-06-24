@@ -1,0 +1,6 @@
+C:\Users\obrow\Desktop\MSSA\ISTA220\Source_Code\VCSBS\Chapter 21\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\obrow\Desktop\MSSA\ISTA220\Source_Code\VCSBS\Chapter 21\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\obrow\Desktop\MSSA\ISTA220\Source_Code\VCSBS\Chapter 21\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\obrow\Desktop\MSSA\ISTA220\Source_Code\VCSBS\Chapter 21\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\obrow\Desktop\MSSA\ISTA220\Source_Code\VCSBS\Chapter 21\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Users\obrow\Desktop\MSSA\ISTA220\Source_Code\VCSBS\Chapter 21\BinaryTree\obj\Debug\BinaryTree.pdb
